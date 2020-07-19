@@ -1,6 +1,6 @@
-# Protocol buffer using python
+# Protocol buffers using python
 
-A simple case for using protocol buffer with python.
+A simple case for using protocol buffers with python.
 
 ## Requirements 
 
